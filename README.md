@@ -1,7 +1,8 @@
 # ASL-Alphabets
-project that detects ASL alphabets
+A project that detects ASL sign languages using computer vision
 
-## How to use
-* train and save a model on the dataset
-* clone the repo
-* change model directory as required
+## Libraries Used
+* Mediapipe
+* Opencv
+* Tensorflow
+* Numpy
